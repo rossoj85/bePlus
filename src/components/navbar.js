@@ -19,7 +19,7 @@ export default (props)=>{
       <LinkContainer to='/'> 
         <div id='logoContainer'>
           <img className='logo' src={mango} />
-          <h4>Kleinfeld</h4>  
+          <h4>TESTING</h4>  
         </div>
       </LinkContainer>
     </Navbar.Brand>
